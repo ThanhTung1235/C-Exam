@@ -1,0 +1,4 @@
+C:\Users\Le Thanh Tung\RiderProjects\program_computing_tax\program_computing_tax\obj\Debug\netcoreapp2.0\program_computing_tax.csprojAssemblyReference.cache
+C:\Users\Le Thanh Tung\RiderProjects\program_computing_tax\program_computing_tax\obj\Debug\netcoreapp2.0\program_computing_tax.csproj.CoreCompileInputs.cache
+C:\Users\Le Thanh Tung\RiderProjects\program_computing_tax\program_computing_tax\obj\Debug\netcoreapp2.0\program_computing_tax.AssemblyInfoInputs.cache
+C:\Users\Le Thanh Tung\RiderProjects\program_computing_tax\program_computing_tax\obj\Debug\netcoreapp2.0\program_computing_tax.AssemblyInfo.cs
